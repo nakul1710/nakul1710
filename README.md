@@ -6,7 +6,7 @@
 - 💬 Ask me about all type movies like-action, marvel ,horror and sci-fi.
 - 😄 Pronouns: He/Him
 <div align="center">
-  <img height="150" src="https://sun1-30.userapi.com/s/v1/ig2/yrxdI4qBRkDZnKA8ZbljK5LZwb5OQXKuGFBI3EkVJ7ErA-0AAjolP172KGJNknvZa-sCoS68W_WXaGbSzYjrLnfq.jpg?size=200x200&quality=95&crop=0,0,767,767&ava=1"  />
+  <img height="150px" width="150px" src="https://sun1-30.userapi.com/s/v1/ig2/yrxdI4qBRkDZnKA8ZbljK5LZwb5OQXKuGFBI3EkVJ7ErA-0AAjolP172KGJNknvZa-sCoS68W_WXaGbSzYjrLnfq.jpg?size=200x200&quality=95&crop=0,0,767,767&ava=1"  />
 </div>
 
 ###
