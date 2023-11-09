@@ -31,3 +31,14 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png"   height="40" width="65" alt="git logo"  />
 </div>
 
+<h3 align="left">🛠 Tools </h3>
+
+###
+-  VS Code
+-  Vim
+-  Arc (Browser)
+-  Iterm
+-  ZSH
+-  Github
+
+
