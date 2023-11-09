@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="./img/html5.png" height="40" width="52" alt="html logo"  />
   <img src="./img/css3.png" height="48" width="52" alt="css logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9Dt7MFZNySbEfaKf-1ac8zQABG10sFT-WBFqE6FC&s" height="40" width="52" alt="css logo"  />
+
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png"   height="40" width="65" alt="git logo"  />
 </div>
 
