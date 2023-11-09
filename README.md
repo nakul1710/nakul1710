@@ -18,8 +18,6 @@
 
 - 👯 I’m looking to collaborate on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
 
-- 🤝 I’m looking for help with [JS Lovers Jaipur](https://github.com/jsloversjaipur)
-
 - 👨‍💻 All of my projects are available at [https://nakul.dev](https://nakul.dev)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS, GIT, Linux, Bash**
