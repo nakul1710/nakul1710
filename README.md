@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nakul.dev](https://nakul.dev)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, GIT, Linux, Bash**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git, Linux, Bash, Vim**
 
 - 📫 How to reach me **nakulyadav1710@gmail.com**
 
