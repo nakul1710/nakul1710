@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World!!,+I'm+Nakul+👻++++++++++)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul1710&label=Profile%20views&color=10b40e&style=flat-square" alt="nakul" /> </p>
 
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -13,7 +14,7 @@
 </a> -->
 <a href="https://streak-stats.demolab.com?user=nakul1710&theme=radical">
   <img align="center" src="https://streak-stats.demolab.com?user=nakul1710&theme=radical" width=420/>
-</a>
+</a>̨
  </div>
 
 
