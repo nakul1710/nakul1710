@@ -33,11 +33,11 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,nextjs,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
   </a>
 </p>
 <!-- <div>
