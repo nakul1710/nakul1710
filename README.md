@@ -1,47 +1,79 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World!!,+I'm+Nakul+👻++++++++++)](https://git.io/typing-svg)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <a href="https://primeboy.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-my_Portfolio-FBFBFB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
+  </a>
+  
+  [![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
+</div>
 
-<h3 align="center">A passionate software developer from India</h3>
+### 👨‍💻 About Me
+<div id="body" align="left">
+  - 👋 Hi, I am Nakul Yadav <br>
+  - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML| css |javascript | React <br>
+ 
+  - 📫 Reach me via email :  <a href="nakulyadav1710@gmail.com">Mail</a>
+.
+</div>
 
 
- <div align="center"> 
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=410/>
-</a> -->
-
- </div>
- <h3>Most Used languages</h3>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakul1710&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul1710&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-
-- 🔭 I’m currently working on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
-
-- 🌱 I’m currently learning **JS, Bash, Linux and Data Structure**
-
-- 👯 I’m looking to collaborate on [JS Lovers Jaipur](https://github.com/jsloversjaipur)
-
-- 👨‍💻 All of my projects are available at [https://nakul.dev](https://nakul.dev)
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Git, Linux, Bash, Vim**
-
-- 📫 How to reach me **nakulyadav1710@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1q6FLUyariocsbcR3ep05TSDtRScrBU8CZjanbTW6P3Y/edit?usp=sharing](https://docs.google.com/document/d/1q6FLUyariocsbcR3ep05TSDtRScrBU8CZjanbTW6P3Y/edit?usp=sharing)
-
-- ⚡ Fun fact **Ask me about marvel and Tom cruise**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nakul1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakul1710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nakul-yadav-a87bb5237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-yadav-a87bb5237" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21949001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21949001" height="30" width="40" /></a>
+### 🚀 You can connect with me on
+<p align="center">
+  <a href="https://linkedin.com/nakul-yadav-a87bb5237/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+  <a href="https://twitter.com/nakul1705">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
+### 🛠️ Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,nextjs,vscode,git,github,figma" />
+  </a>
+</p>
+<!-- <div>
+  <img src="https://github.com/devcons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+</div>
+sass jquery
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nakulyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nakulyadav" /></a></p><br><br>
 
+### 🔥 Github Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nakul1710&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakul1710&theme=dark&show_icons=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+🥂 Cheers!
+
+<!--
+**PrimeFord/PrimeFord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently workingjj on ...
+- 🌱 I’m currently llearning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
