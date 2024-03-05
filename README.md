@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/-my_Portfolio-FBFBFB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
   </a>
   
-  [![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
+  
 </div>
 
 ### 👨‍💻 About Me
