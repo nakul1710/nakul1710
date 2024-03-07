@@ -16,7 +16,8 @@
   - 👋 Hi, I am Nakul Yadav <br>
   - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML|css|javascript|React|C <br>
  
-  - 📫 Reach me via email :  <a href="nakulyadav1710@gmail.com">Mail</a>
+  - 📫 Reach me via email :  <a href="nakulyadav1710@gmail.com">gmail
+  </a>
 .
 </div>
 
