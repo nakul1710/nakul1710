@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 <div id="body" align="left">
   - 👋 Hi, I am Nakul Yadav <br>
-  - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML| css |javascript | React <br>
+  - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML|css|javascript|React|C <br>
  
   - 📫 Reach me via email :  <a href="nakulyadav1710@gmail.com">Mail</a>
 .
@@ -33,7 +33,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
