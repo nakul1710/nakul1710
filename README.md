@@ -61,6 +61,7 @@ sass jquery
 <br>
 ![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakul1710&theme=dark&show_icons=true)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=nakul1710&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 🥂 Cheers!
