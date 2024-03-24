@@ -11,7 +11,7 @@
   
 </div>
 
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 <div id="body" align="left">
   - 👋 Hi, I am Nakul Yadav <br>
   - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML|css|javascript|React|C <br>
@@ -22,7 +22,7 @@
 </div>
 
 
-### 🚀 You can connect with me on
+ 🚀 You can connect with me on
 <p align="center">
   <a href="https://linkedin.com/nakul-yadav-a87bb5237/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -32,7 +32,7 @@
   </a>
   
 </p>
-### 🛠️ Languages and Tools
+🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,c,bootstrap" />
