@@ -12,6 +12,7 @@
 </div>
 
  👨‍💻 About Me
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul1710x&label=Profile%20views&color=0e75b6&style=flat" alt="nakul1710" /> </p>
 <div id="body" align="left">
   - 👋 Hi, I am Nakul Yadav <br>
   - 👨🏾‍💻 I am a software developer. I write frontend  web applications with HTML|css|javascript|React|C <br>
