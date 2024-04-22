@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
   <a href="https://twitter.com/nakul1705">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=X" />
   </a>
   
 </p>
