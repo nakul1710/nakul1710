@@ -36,7 +36,7 @@
 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,bootstrap,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,bootstrap,typescript,tailwindcss" />
   </a>
   
   <a href="https://skillicons.dev">
