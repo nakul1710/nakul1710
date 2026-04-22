@@ -82,3 +82,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
+<div align="center">
+    <a href="https://leetcard.jacoblin.cool/nakul1710?theme=dark&font=Radio%20Canada&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/nakul1710?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
+  </a>
+</div>
+
+<p align="center"> 
+  <a href="https://leetcode.com/nakul1710/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>
+    <a href="https://leetcode.com/nakul1710/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>
+   <a href="https://leetcode.com/nakul1710/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2025-10.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>  
+</p>
